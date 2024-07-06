@@ -129,7 +129,7 @@ As it's also a bad commit we use the command `git bisect bad` and the process sh
 
     9234b5f364f6c9f5f095b80e98989d1769c07c5c is the first bad commit
     commit 9234b5f364f6c9f5f095b80e98989d1769c07c5c
-    Author: ROOT\sabyasachi <sabyasachis840@gmail.com>
+    Author: **
     Date:   Tue Jul 2 22:16:55 2024 +0600
 
         Change 'boat' to 'car'.
